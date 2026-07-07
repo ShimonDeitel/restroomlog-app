@@ -1,0 +1,27 @@
+{
+  "identifier" : "Restroomlog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "restroomlog_pro",
+      "localizations" : [
+        {
+          "description" : "Unlocks Weekly frequency chart and fluid-cutoff correlation notes",
+          "displayName" : "Restroomlog Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.nighttimelog.pro",
+      "referenceName" : "Restroomlog Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
